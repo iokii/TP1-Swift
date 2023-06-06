@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TP1
+
+  Created by digital on 23/05/2023.
+  
+*/
+
+"MOVIE" = "Films";
+"FILTER" = "Filtre";
+"NOWPLAYING" = "Actuellement en Salle";
+"POPULAR" = "Populaire";
+"TOPRATED" = "Mieux noté";
+"UPCOMING" = "Prochainement";
+"ALLCATEGORIES" = "Toutes les catégories";
+"PAGEPREC" = "<-- Page précédente";
+"PAGENEXT" = "Page suivante -->";
+"RESUME" = "Résumé";
+"LENGHT" = "Durée";
+
